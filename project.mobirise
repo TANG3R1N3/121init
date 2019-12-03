@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -256,18 +256,18 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "showArrow": false,
-            "imageSize": 30,
+            "imageSize": "43",
             "paddingTop": 3,
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#fffffd",
+            "containerColor1": "#d2cccc",
             "containerColor2": "#d2cccc",
-            "containerColor3": "#c15555",
+            "containerColor3": "#d2cccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
