@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "FAQ.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -341,10 +341,10 @@
               "font-size": "0.880rem"
             },
             ".link:hover, .link:focus": {
-              "color": "#94a5d0"
+              "color": "#000000"
             },
             ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#94a5d0"
+              "background": "#000000"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
               "color": "#fffffd"
@@ -366,10 +366,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#94a5d0"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#94a5d0!important"
+              "color": "#000000!important"
             }
           },
           "_params": {
@@ -935,10 +935,10 @@
               "font-size": "0.880rem"
             },
             ".link:hover, .link:focus": {
-              "color": "#94a5d0"
+              "color": "#000000"
             },
             ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#94a5d0"
+              "background": "#000000"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
               "color": "#fffffd"
@@ -960,10 +960,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#94a5d0"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#94a5d0!important"
+              "color": "#000000!important"
             }
           },
           "_params": {
@@ -1286,10 +1286,10 @@
               "font-size": "0.880rem"
             },
             ".link:hover, .link:focus": {
-              "color": "#94a5d0"
+              "color": "#000000"
             },
             ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#94a5d0"
+              "background": "#000000"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
               "color": "#fffffd"
@@ -1311,10 +1311,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#94a5d0"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#94a5d0!important"
+              "color": "#000000!important"
             }
           },
           "_params": {
@@ -1419,10 +1419,10 @@
               "font-size": "0.880rem"
             },
             ".link:hover, .link:focus": {
-              "color": "#94a5d0"
+              "color": "#000000"
             },
             ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#94a5d0"
+              "background": "#000000"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
               "color": "#fffffd"
@@ -1444,10 +1444,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#94a5d0"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#94a5d0!important"
+              "color": "#000000!important"
             }
           },
           "_params": {
