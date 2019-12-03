@@ -1,20 +1,20 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "FAQ.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
       "styling": {
-        "primaryColor": "#5aac98",
+        "primaryColor": "#bb2e5e",
         "secondaryColor": "#c15555",
         "successColor": "#1E7C3A",
         "infoColor": "#74a3c7",
         "warningColor": "#FFD785",
         "dangerColor": "#FF9685",
         "titleFont": "Oxygen",
-        "subtitleFont": "Libre Franklin",
-        "textFont": "Libre Franklin",
+        "subtitleFont": "Oxygen",
+        "textFont": "Oxygen",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false

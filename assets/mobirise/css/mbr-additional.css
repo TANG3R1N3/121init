@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
 
 
 
@@ -11,11 +10,11 @@ input,
 textarea,
 .mbr-company .list-group-text,
 .mbr-section-text {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 .alert,
 h1,
@@ -32,7 +31,7 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 .btn {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -53,14 +52,14 @@ h6,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block,
 .mbr-section-subtitle {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
   font-style: normal;
 }
 .mbr-author-name {
   font-family: 'Oxygen', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
@@ -68,11 +67,11 @@ h6,
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
   font-style: normal;
 }
 .bg-primary {
-  background-color: #5aac98 !important;
+  background-color: #bb2e5e !important;
 }
 .bg-success {
   background-color: #1e7c3a !important;
@@ -87,8 +86,8 @@ h6,
   background-color: #ff9685 !important;
 }
 .btn-primary {
-  background-color: #5aac98;
-  border-color: #5aac98;
+  background-color: #bb2e5e;
+  border-color: #bb2e5e;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -97,14 +96,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #3e7b6c;
-  border-color: #3e7b6c;
+  background-color: #7e1f3f;
+  border-color: #7e1f3f;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #3e7b6c !important;
-  border-color: #3e7b6c !important;
+  background-color: #7e1f3f !important;
+  border-color: #7e1f3f !important;
 }
 .btn-secondary {
   background-color: #c15555;
@@ -208,8 +207,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #366a5e;
-  color: #366a5e;
+  border-color: #691a35;
+  color: #691a35;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -217,14 +216,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #5aac98;
-  border-color: #5aac98;
+  background-color: #bb2e5e;
+  border-color: #bb2e5e;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #5aac98 !important;
-  border-color: #5aac98 !important;
+  background-color: #bb2e5e !important;
+  border-color: #bb2e5e !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -327,7 +326,7 @@ h6,
   border-color: #ff9685 !important;
 }
 .text-primary {
-  color: #5aac98 !important;
+  color: #bb2e5e !important;
 }
 .text-success {
   color: #1e7c3a !important;
@@ -354,30 +353,30 @@ h6,
   background-color: #ff9685;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #5aac98;
+  color: #bb2e5e;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #5aac98;
+  color: #bb2e5e;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #5aac98;
+  background: #bb2e5e;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #5aac98;
+  color: #bb2e5e;
 }
 .lead a,
 .lead a:hover {
-  color: #5aac98;
+  color: #bb2e5e;
 }
 .lead blockquote {
-  border-color: #5aac98;
+  border-color: #bb2e5e;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #afd7cd;
+  color: #e187a6;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -414,18 +413,18 @@ a:hover {
   color: #ffffff;
 }
 .header1 .mbr-arrow a:hover i {
-  color: #5aac98;
+  color: #bb2e5e;
 }
 /*header2*/
 .header1.header2 .mbr-arrow a i {
   color: #222222;
 }
 .header1.header2 .mbr-arrow a:hover i {
-  color: #5aac98;
+  color: #bb2e5e;
 }
 /*features1*/
 .features1 .carousel-indicators li.active {
-  border: 5px solid #5aac98;
+  border: 5px solid #bb2e5e;
 }
 /*features12*/
 .features12 .card .mbr-iconfont,
@@ -435,62 +434,62 @@ a:hover {
 }
 /*msg-box1*/
 .msg-box1 ul li:before {
-  background-color: #5aac98;
+  background-color: #bb2e5e;
 }
 .msg-box1 .round-block {
-  background: linear-gradient(45deg, #4c9784, #5aac98, #7cbdad);
+  background: linear-gradient(45deg, #9e2750, #bb2e5e, #d24a78);
 }
 /*tabs1*/
 .tabs1 ul li a.active {
-  border-bottom-color: #5aac98 !important;
+  border-bottom-color: #bb2e5e !important;
 }
 .tabs1 .tab-list-wraper ul li:before {
-  background-color: #5aac98;
+  background-color: #bb2e5e;
 }
 .tabs1 .colorBG {
-  background-color: #5aac98;
+  background-color: #bb2e5e;
 }
 /*content*/
 .content2 blockquote {
-  border-left: 3px solid #5aac98;
+  border-left: 3px solid #bb2e5e;
 }
 .content4 p {
-  border-bottom: 3px solid #5aac98;
-  border-top: 3px solid #5aac98;
+  border-bottom: 3px solid #bb2e5e;
+  border-top: 3px solid #bb2e5e;
 }
 /*follow1*/
 .follow1 .btn-social {
-  color: #5aac98;
-  border-color: #5aac98;
+  color: #bb2e5e;
+  border-color: #bb2e5e;
 }
 .follow1 .btn-social:hover {
-  color: #7cbdad;
-  background: rgba(90, 172, 152, 0.1);
-  border-color: #7cbdad;
+  color: #d24a78;
+  background: rgba(187, 46, 94, 0.1);
+  border-color: #d24a78;
 }
 /*share1*/
 .share1 .btn-social {
-  color: #5aac98;
-  border-color: #5aac98;
+  color: #bb2e5e;
+  border-color: #bb2e5e;
 }
 .share1 .btn-social:hover {
-  color: #7cbdad;
-  background: rgba(90, 172, 152, 0.1);
-  border-color: #7cbdad;
+  color: #d24a78;
+  background: rgba(187, 46, 94, 0.1);
+  border-color: #d24a78;
 }
 /* Slider */
 .mbr-slider .carousel-indicators .active {
-  background-color: #5aac98;
+  background-color: #bb2e5e;
 }
 /* Gallery */
 .mbr-gallery-filter ul li {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 .mbr-gallery-filter li {
   color: #74a3c7;
 }
 .btn-empty:focus {
-  color: #5aac98;
+  color: #bb2e5e;
 }
 /* captions */
 .mbr-figure-caption {
@@ -503,20 +502,20 @@ a:hover {
 }
 /*tabs3*/
 .tabs3 .nav-tabs .nav-link.active {
-  border: 5px solid #5aac98;
+  border: 5px solid #bb2e5e;
 }
 /* testimonials1*/
 .testimonials1 .carousel-indicators li.active {
-  border: 5px solid #5aac98;
+  border: 5px solid #bb2e5e;
 }
 .hamburger-icon {
-  background-color: #5aac98 !important;
+  background-color: #bb2e5e !important;
 }
 .hamburger-icon:before {
-  background-color: #5aac98;
+  background-color: #bb2e5e;
 }
 .hamburger-icon:after {
-  background-color: #5aac98;
+  background-color: #bb2e5e;
 }
 #menu2-6 .hide-buttons .nav-btn {
   display: none !important;
