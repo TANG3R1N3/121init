@@ -733,11 +733,11 @@ a:hover {
 }
 #menu2-l .link:hover,
 #menu2-l .link:focus {
-  color: #94a5d0;
+  color: #000000;
 }
 #menu2-l .dropdown-item:hover::before,
 #menu2-l .dropdown-item:focus::before {
-  background: #94a5d0;
+  background: #000000;
 }
 #menu2-l .dropdown-item:hover,
 #menu2-l .dropdown-item:focus {
@@ -768,11 +768,11 @@ a:hover {
 }
 #menu2-l .bg-color.transparent.opened .link:hover,
 #menu2-l .bg-color.transparent.opened .link:focus {
-  color: #94a5d0;
+  color: #000000;
 }
 #menu2-l .link[aria-expanded="true"],
 #menu2-l .dropdown-item[aria-expanded="true"] {
-  color: #94a5d0!important;
+  color: #000000!important;
 }
 #form2-m .heading {
   background: #bb2e5e;
