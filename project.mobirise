@@ -151,7 +151,7 @@
             "showText": true,
             "showButtons": false,
             "contentAlign": "center",
-            "showArrow": true,
+            "showArrow": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/school02-1034x495.png",
             "parallax": false,
@@ -239,7 +239,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "&nbsp; &nbsp; Application Form",
+          "text": "&nbsp; &nbsp; &nbsp;Application Form",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
