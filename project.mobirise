@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "index.html",
+    "currentPage": "Contact Us.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -193,7 +193,7 @@
               "color": "#fffffd",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "20px"
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -251,7 +251,7 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#bb2e5e",
-              "font-size": "24px"
+              "font-size": "30px"
             }
           }
         },
@@ -426,7 +426,7 @@
             },
             "H1": {
               "color": "#bb2e5e",
-              "font-size": "48px"
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -623,7 +623,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "showHeading": true,
             "showTitle": true,
             "showText": false,
@@ -723,7 +723,7 @@
             },
             ".heading-title": {
               "color": "#bb2e5e",
-              "font-size": "36px"
+              "font-size": "30px"
             },
             ".card-text": {
               "font-family": "'Oxygen', sans-serif",
@@ -845,7 +845,7 @@
             "formBg": "#bb2e5e",
             "formHeader": true,
             "paddingTop": "3",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1014,7 +1014,7 @@
             },
             "H1": {
               "color": "#bb2e5e",
-              "font-size": "46px"
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -1083,7 +1083,7 @@
           "_styles": {
             "H3": {
               "color": "#bb2e5e",
-              "font-size": "32px"
+              "font-size": "25px"
             },
             "P": {
               "color": "#000000"
@@ -1141,7 +1141,7 @@
           "_styles": {
             "H3": {
               "color": "#bb2e5e",
-              "font-size": "32px"
+              "font-size": "25px"
             },
             "P": {
               "color": "#000000"
@@ -1200,10 +1200,12 @@
           "_styles": {
             "H3": {
               "color": "#bb2e5e",
-              "font-size": "32px"
+              "font-size": "25px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "header7-10"
@@ -1246,7 +1248,9 @@
           "_anchor": "content8-12",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         }
@@ -1361,7 +1365,7 @@
             },
             "H1": {
               "color": "#bb2e5e",
-              "font-size": "36px"
+              "font-size": "30px"
             },
             "P": {
               "font-family": "'Oxygen', sans-serif",

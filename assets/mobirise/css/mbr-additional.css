@@ -601,12 +601,12 @@ a:hover {
 #content3-7 P {
   color: #fffffd;
   font-family: 'Oxygen', sans-serif;
-  font-size: 20px;
+  font-size: 30px;
 }
 #content8-a P {
   font-family: 'Oxygen', sans-serif;
   color: #bb2e5e;
-  font-size: 24px;
+  font-size: 30px;
 }
 #header7-d H3 {
   font-size: 30px;
@@ -687,7 +687,7 @@ a:hover {
 }
 #msg-box5-i H1 {
   color: #bb2e5e;
-  font-size: 48px;
+  font-size: 30px;
 }
 #features12-j .mbr-iconfont {
   color: #bb2e5e;
@@ -702,7 +702,7 @@ a:hover {
 }
 #features15-k .heading-title {
   color: #bb2e5e;
-  font-size: 36px;
+  font-size: 30px;
 }
 #features15-k .card-text {
   font-family: 'Oxygen', sans-serif;
@@ -778,6 +778,8 @@ a:hover {
   background: #bb2e5e;
 }
 
+
+
 #menu2-n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -849,31 +851,33 @@ a:hover {
 }
 #content3-11 H1 {
   color: #bb2e5e;
-  font-size: 46px;
+  font-size: 30px;
 }
 #header7-y H3 {
   color: #bb2e5e;
-  font-size: 32px;
+  font-size: 25px;
 }
 #header7-y P {
   color: #000000;
 }
 #header7-z H3 {
   color: #bb2e5e;
-  font-size: 32px;
+  font-size: 25px;
 }
 #header7-z P {
   color: #000000;
 }
 #header7-10 H3 {
   color: #bb2e5e;
-  font-size: 32px;
+  font-size: 25px;
 }
 #header7-10 P {
   color: #000000;
+  font-family: 'Oxygen', sans-serif;
 }
 #content8-12 P {
   text-align: left;
+  font-family: 'Oxygen', sans-serif;
 }
 
 
@@ -948,7 +952,7 @@ a:hover {
 }
 #content3-14 H1 {
   color: #bb2e5e;
-  font-size: 36px;
+  font-size: 30px;
 }
 #content3-14 P {
   font-family: 'Oxygen', sans-serif;
