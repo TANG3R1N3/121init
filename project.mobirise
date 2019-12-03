@@ -1566,7 +1566,7 @@
               "placeId": "iframe",
               "state": "ok"
             },
-            "paddingTop": 4,
+            "paddingTop": "0",
             "paddingBottom": 4,
             "bgColor": "#fff"
           },
