@@ -16,7 +16,7 @@
         "subtitleFont": "Libre Franklin",
         "textFont": "Libre Franklin",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
