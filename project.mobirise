@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.2",
     "siteFonts": [],
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/initlogo-128x30-4.png",
@@ -1566,7 +1566,7 @@
               "placeId": "iframe",
               "state": "ok"
             },
-            "paddingTop": "0",
+            "paddingTop": 4,
             "paddingBottom": 4,
             "bgColor": "#fff"
           },
@@ -1574,7 +1574,7 @@
             "Theme"
           ],
           "_name": "map2",
-          "_anchor": "map2-1c"
+          "_anchor": "map2-1d"
         }
       ]
     },
