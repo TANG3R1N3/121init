@@ -707,6 +707,7 @@ a:hover {
 #features15-k .card-text {
   font-family: 'Oxygen', sans-serif;
   font-size: 14px;
+  text-align: left;
 }
 
 #menu2-l .hide-buttons .nav-btn {
@@ -952,7 +953,7 @@ a:hover {
 }
 #content3-14 H1 {
   color: #bb2e5e;
-  font-size: 30px;
+  font-size: 36px;
 }
 #content3-14 P {
   font-family: 'Oxygen', sans-serif;

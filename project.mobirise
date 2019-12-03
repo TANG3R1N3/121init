@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "FAQ.html",
+    "currentPage": "Online Training.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -728,7 +728,8 @@
             ".card-text": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "14px"
+              "font-size": "14px",
+              "text-align": "left"
             }
           }
         }
@@ -844,7 +845,7 @@
             "showCheckbox": true,
             "formBg": "#bb2e5e",
             "formHeader": true,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -862,7 +863,7 @@
           "title": "Application Form",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "header": "We DO accept external students who wish to sit Cambridge A- Level and IGCSE exams at our course centre. Please fill in the application form and the examination officer will reply to you shortly.\r<div>\r</div><div>Hälsobrunnsgatan 6, 113 61 Stockholm\r</div><div>08-704 22 15\r</div><div>\r</div><div>cambridge@initcollege.com\r</div><div><br></div>",
+          "header": "We DO accept external students who wish to sit Cambridge A- Level and IGCSE exams at our course centre. Please fill in the application form and the examination officer will reply to you shortly.\n<div>\n</div><div>Hälsobrunnsgatan 6, 113 61 Stockholm\n</div><div>08-704 22 15\n</div><div>\n</div><div>cambridge@initcollege.com\n</div><div><br></div>",
           "form": {
             "action": "battyboomboom@hotmail.se",
             "alerts": {
@@ -1365,7 +1366,7 @@
             },
             "H1": {
               "color": "#bb2e5e",
-              "font-size": "30px"
+              "font-size": "36px"
             },
             "P": {
               "font-family": "'Oxygen', sans-serif",
