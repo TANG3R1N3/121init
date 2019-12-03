@@ -251,7 +251,8 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#bb2e5e",
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "center"
             }
           }
         },
