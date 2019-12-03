@@ -1,20 +1,20 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "FAQ.html",
+    "currentPage": "Contact Us.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
       "styling": {
-        "primaryColor": "#bb2e5e",
+        "primaryColor": "#5aac98",
         "secondaryColor": "#c15555",
         "successColor": "#1E7C3A",
         "infoColor": "#74a3c7",
         "warningColor": "#FFD785",
         "dangerColor": "#FF9685",
         "titleFont": "Oxygen",
-        "subtitleFont": "Oxygen",
-        "textFont": "Oxygen",
+        "subtitleFont": "Libre Franklin",
+        "textFont": "Libre Franklin",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.2",
     "siteFonts": [],
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/initlogo-128x30-4.png",
@@ -1562,16 +1562,19 @@
         {
           "_params": {
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2034.7457048017855!2d18.047247499999994!3d59.337199299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d64ec452ee3%3A0x5bb68b139db17b05!2sInternational%20IT%20College%20of%20Sweden!5e0!3m2!1ssv!2sse!4v1575371407096!5m2!1ssv!2sse\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>",
+              "placeId": "iframe",
               "state": "ok"
-            }
+            },
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "map1",
-          "_anchor": "map1-18"
+          "_name": "map2",
+          "_anchor": "map2-1c"
         }
       ]
     },
