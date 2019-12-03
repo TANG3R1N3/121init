@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -260,7 +260,7 @@
             "showArrow": false,
             "imageSize": 30,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
@@ -305,123 +305,13 @@
               "font-size": "30px"
             }
           }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": false,
-            "imageSize": 30,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#fffffd",
-            "containerColor2": "#d2cccc",
-            "containerColor3": "#c15555",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/22726510229-a614095604-z-640x341.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Cambridge Examination Centre - Stockholm",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header7",
-          "_anchor": "header7-e",
-          "_styles": {
-            "H3": {
-              "font-size": "30px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "showArrow": false,
-            "imageSize": 30,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#fffffd",
-            "containerColor2": "#d2cccc",
-            "containerColor3": "#c15555",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/22726510229-a614095604-z-640x341.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "INIT Cambridge",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header7",
-          "_anchor": "header7-f",
-          "_styles": {
-            "H3": {
-              "font-size": "30px"
-            }
-          }
         }
       ]
     },
     "page1.html": {
       "settings": {
         "title": "Our School",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -728,7 +618,7 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "showHeading": true,
             "showTitle": true,
@@ -780,8 +670,9 @@
               "name": "question",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "color": "#bb2e5e"
+              "link": "page2.html",
+              "color": "#bb2e5e",
+              "newWindow": false
             }
           },
           "title2": "What is Mobirise",
@@ -828,7 +719,12 @@
             },
             ".heading-title": {
               "color": "#bb2e5e",
-              "font-size": "48px"
+              "font-size": "36px"
+            },
+            ".card-text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
             }
           }
         }
@@ -837,7 +733,7 @@
     "page2.html": {
       "settings": {
         "title": "Application Form",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1008,7 +904,7 @@
     "page3.html": {
       "settings": {
         "title": "Examination Fees",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -1124,7 +1020,7 @@
             "bgColor": "#fff"
           },
           "title": "Examination Fees",
-          "meta": "Valid date for fees?",
+          "meta": "Correct at time of publishing",
           "_tags": [
             "Theme"
           ],
@@ -1183,7 +1079,7 @@
           "_styles": {
             "H3": {
               "color": "#bb2e5e",
-              "font-size": "36px"
+              "font-size": "32px"
             },
             "P": {
               "color": "#000000"
@@ -1241,7 +1137,7 @@
           "_styles": {
             "H3": {
               "color": "#bb2e5e",
-              "font-size": "36px"
+              "font-size": "32px"
             },
             "P": {
               "color": "#000000"
@@ -1300,7 +1196,7 @@
           "_styles": {
             "H3": {
               "color": "#bb2e5e",
-              "font-size": "36px"
+              "font-size": "32px"
             },
             "P": {
               "color": "#000000"
@@ -1355,7 +1251,7 @@
     "page4.html": {
       "settings": {
         "title": "Online Training",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -1475,7 +1371,7 @@
             "paddingBottom": 3,
             "bgColor": "#fff"
           },
-          "title": "INIT Cambridge Online Training",
+          "title": "<br><br>INIT Cambridge Online Training",
           "meta": "<br>Online Training is Under Development - Coming 1st Quarter 2020\n<br>Please refer to this page for further information.&nbsp;",
           "_tags": [
             "Theme"
@@ -1488,7 +1384,7 @@
     "page5.html": {
       "settings": {
         "title": "Contact Us",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -1673,7 +1569,7 @@
     "page6.html": {
       "settings": {
         "title": "FAQ",
-        "order": 1
+        "order": 6
       },
       "components": [
         {

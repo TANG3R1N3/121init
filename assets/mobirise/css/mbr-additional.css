@@ -611,12 +611,7 @@ a:hover {
 #header7-d H3 {
   font-size: 30px;
 }
-#header7-e H3 {
-  font-size: 30px;
-}
-#header7-f H3 {
-  font-size: 30px;
-}
+
 
 #menu2-g .hide-buttons .nav-btn {
   display: none !important;
@@ -707,7 +702,11 @@ a:hover {
 }
 #features15-k .heading-title {
   color: #bb2e5e;
-  font-size: 48px;
+  font-size: 36px;
+}
+#features15-k .card-text {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
 }
 
 #menu2-l .hide-buttons .nav-btn {
@@ -854,21 +853,21 @@ a:hover {
 }
 #header7-y H3 {
   color: #bb2e5e;
-  font-size: 36px;
+  font-size: 32px;
 }
 #header7-y P {
   color: #000000;
 }
 #header7-z H3 {
   color: #bb2e5e;
-  font-size: 36px;
+  font-size: 32px;
 }
 #header7-z P {
   color: #000000;
 }
 #header7-10 H3 {
   color: #bb2e5e;
-  font-size: 36px;
+  font-size: 32px;
 }
 #header7-10 P {
   color: #000000;
