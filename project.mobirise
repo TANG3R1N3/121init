@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "Contact Us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -153,7 +153,7 @@
             "contentAlign": "center",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/school03-1093x551.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/school02-1034x495.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#bdb39a",
@@ -264,7 +264,7 @@
             "showArrow": false,
             "imageSize": "43",
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
