@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "FAQ.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -263,7 +263,7 @@
             "inverse": false,
             "showArrow": false,
             "imageSize": "43",
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
