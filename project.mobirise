@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "Contact Us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.2",
     "siteFonts": [],
-    "uniqCompNum": 50,
+    "uniqCompNum": 48,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/initlogo-128x30-4.png",
@@ -187,7 +187,7 @@
             },
             "H1": {
               "color": "#bb2e5e",
-              "font-size": "48px"
+              "font-size": "46px"
             },
             "P": {
               "color": "#fffffd",
@@ -239,7 +239,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "Application Form",
+          "text": "&nbsp; &nbsp; Application Form",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
