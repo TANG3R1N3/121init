@@ -1054,11 +1054,11 @@ a:hover {
 }
 #menu2-19 .link:hover,
 #menu2-19 .link:focus {
-  color: #94a5d0;
+  color: #000000;
 }
 #menu2-19 .dropdown-item:hover::before,
 #menu2-19 .dropdown-item:focus::before {
-  background: #94a5d0;
+  background: #000000;
 }
 #menu2-19 .dropdown-item:hover,
 #menu2-19 .dropdown-item:focus {
@@ -1089,11 +1089,11 @@ a:hover {
 }
 #menu2-19 .bg-color.transparent.opened .link:hover,
 #menu2-19 .bg-color.transparent.opened .link:focus {
-  color: #94a5d0;
+  color: #000000;
 }
 #menu2-19 .link[aria-expanded="true"],
 #menu2-19 .dropdown-item[aria-expanded="true"] {
-  color: #94a5d0!important;
+  color: #000000!important;
 }
 #content3-1a .mbr-section-title,
 #content3-1a .mbr-section-subtitle {
