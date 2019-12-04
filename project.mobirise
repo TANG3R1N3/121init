@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_1523",
-    "currentPage": "index.html",
+    "currentPage": "FAQ.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -66,10 +66,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "0.8125rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .link:focus": {
               "color": "#000000"
@@ -101,6 +101,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#000000!important"
+            },
+            ".navbar-caption": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -111,8 +114,8 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#bb2e5e",
-            "fontSize": 0.8125,
-            "imageSize": 4,
+            "fontSize": "0.7",
+            "imageSize": "2",
             "fontName": {
               "name": "Oxygen",
               "css": "'Oxygen', sans-serif",
@@ -336,10 +339,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "0.8125rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .link:focus": {
               "color": "#000000"
@@ -371,6 +374,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#000000!important"
+            },
+            ".navbar-caption": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -381,8 +387,8 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#bb2e5e",
-            "fontSize": 0.8125,
-            "imageSize": 4,
+            "fontSize": "0.7",
+            "imageSize": "2",
             "fontName": {
               "name": "Oxygen",
               "css": "'Oxygen', sans-serif",
@@ -423,7 +429,8 @@
               "line-height": "1"
             },
             ".round-text": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "16px"
             },
             "H1": {
               "color": "#bb2e5e",
@@ -617,7 +624,8 @@
               "border-color": "#bb2e5e"
             },
             ".card-title": {
-              "color": "#bb2e5e"
+              "color": "#bb2e5e",
+              "font-size": "24px"
             }
           }
         },
@@ -759,10 +767,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "0.8125rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .link:focus": {
               "color": "#000000"
@@ -794,6 +802,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#000000!important"
+            },
+            ".navbar-caption": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -804,8 +815,8 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#bb2e5e",
-            "fontSize": 0.8125,
-            "imageSize": 4,
+            "fontSize": "0.7",
+            "imageSize": "2",
             "fontName": {
               "name": "Oxygen",
               "css": "'Oxygen', sans-serif",
@@ -902,6 +913,10 @@
           "_styles": {
             ".heading": {
               "background": "#bb2e5e"
+            },
+            ".form-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         }
@@ -930,10 +945,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "0.8125rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .link:focus": {
               "color": "#000000"
@@ -965,6 +980,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#000000!important"
+            },
+            ".navbar-caption": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -975,8 +993,8 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#bb2e5e",
-            "fontSize": 0.8125,
-            "imageSize": 4,
+            "fontSize": "0.7",
+            "imageSize": "2",
             "fontName": {
               "name": "Oxygen",
               "css": "'Oxygen', sans-serif",
@@ -1017,6 +1035,10 @@
             "H1": {
               "color": "#bb2e5e",
               "font-size": "30px"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1088,7 +1110,9 @@
               "font-size": "25px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -1146,7 +1170,9 @@
               "font-size": "25px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "header7-z"
@@ -1281,10 +1307,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "0.8125rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .link:focus": {
               "color": "#000000"
@@ -1316,6 +1342,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#000000!important"
+            },
+            ".navbar-caption": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1326,8 +1355,8 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#bb2e5e",
-            "fontSize": 0.8125,
-            "imageSize": 4,
+            "fontSize": "0.7",
+            "imageSize": "2",
             "fontName": {
               "name": "Oxygen",
               "css": "'Oxygen', sans-serif",
@@ -1414,10 +1443,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "0.8125rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .link:focus": {
               "color": "#000000"
@@ -1449,6 +1478,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#000000!important"
+            },
+            ".navbar-caption": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1459,8 +1491,8 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#bb2e5e",
-            "fontSize": 0.8125,
-            "imageSize": 4,
+            "fontSize": "0.7",
+            "imageSize": "2",
             "fontName": {
               "name": "Oxygen",
               "css": "'Oxygen', sans-serif",
@@ -1568,7 +1600,7 @@
               "state": "ok"
             },
             "paddingTop": "0",
-            "paddingBottom": 4,
+            "paddingBottom": "4",
             "bgColor": "#fff"
           },
           "_tags": [
@@ -1602,10 +1634,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "0.8125rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .link:focus": {
               "color": "#000000"
@@ -1637,6 +1669,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#000000!important"
+            },
+            ".navbar-caption": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1647,8 +1682,8 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#bb2e5e",
-            "fontSize": 0.8125,
-            "imageSize": 4,
+            "fontSize": "0.7",
+            "imageSize": "2",
             "fontName": {
               "name": "Oxygen",
               "css": "'Oxygen', sans-serif",
@@ -1731,8 +1766,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.9
           },
-          "title": "Questions",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseOneaccordion1-1b\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Can the school help external students with overnight accommodation prior to their exams?</a>",
+          "title": "---------------",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseOneaccordion1-1b\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Can the school help external students with overnight accommodation prior to their exams?</a>",
           "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseTwoaccordion1-1b\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">What are the exam start times?</a>",
           "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseThreeaccordion1-1b\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Can the school provide any pre-exam teacher help and assistance.</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseFouraccordion1-1b\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Where is the school located?</a>",

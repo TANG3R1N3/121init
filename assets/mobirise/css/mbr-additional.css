@@ -534,11 +534,11 @@ a:hover {
   font-family: 'Oxygen', sans-serif;
 }
 #menu2-6 .link {
-  font-size: 0.8125rem;
+  font-size: 0.7rem;
 }
 #menu2-6 .dropdown-item,
 #menu2-6 .nav-dropdown-sm .link {
-  font-size: 0.880rem;
+  font-size: 0.758rem;
 }
 #menu2-6 .link:hover,
 #menu2-6 .link:focus {
@@ -582,6 +582,9 @@ a:hover {
 #menu2-6 .link[aria-expanded="true"],
 #menu2-6 .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
+}
+#menu2-6 .navbar-caption {
+  font-size: 16px;
 }
 #header4-3 .mbr-iconfont {
   color: undefined;
@@ -630,11 +633,11 @@ a:hover {
   font-family: 'Oxygen', sans-serif;
 }
 #menu2-g .link {
-  font-size: 0.8125rem;
+  font-size: 0.7rem;
 }
 #menu2-g .dropdown-item,
 #menu2-g .nav-dropdown-sm .link {
-  font-size: 0.880rem;
+  font-size: 0.758rem;
 }
 #menu2-g .link:hover,
 #menu2-g .link:focus {
@@ -679,12 +682,16 @@ a:hover {
 #menu2-g .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
 }
+#menu2-g .navbar-caption {
+  font-size: 16px;
+}
 #msg-box5-i .mbr-section-title {
   color: #fff;
   line-height: 1;
 }
 #msg-box5-i .round-text {
   color: #fff;
+  font-size: 16px;
 }
 #msg-box5-i H1 {
   color: #bb2e5e;
@@ -696,6 +703,7 @@ a:hover {
 }
 #features12-j .card-title {
   color: #bb2e5e;
+  font-size: 24px;
 }
 #features15-k .mbr-iconfont {
   background: #fffffd;
@@ -710,6 +718,7 @@ a:hover {
   font-size: 14px;
   text-align: left;
 }
+
 
 #menu2-l .hide-buttons .nav-btn {
   display: none !important;
@@ -727,11 +736,11 @@ a:hover {
   font-family: 'Oxygen', sans-serif;
 }
 #menu2-l .link {
-  font-size: 0.8125rem;
+  font-size: 0.7rem;
 }
 #menu2-l .dropdown-item,
 #menu2-l .nav-dropdown-sm .link {
-  font-size: 0.880rem;
+  font-size: 0.758rem;
 }
 #menu2-l .link:hover,
 #menu2-l .link:focus {
@@ -776,9 +785,18 @@ a:hover {
 #menu2-l .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
 }
+#menu2-l .navbar-caption {
+  font-size: 16px;
+}
 #form2-m .heading {
   background: #bb2e5e;
 }
+#form2-m .form-title {
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+
 
 
 
@@ -798,11 +816,11 @@ a:hover {
   font-family: 'Oxygen', sans-serif;
 }
 #menu2-n .link {
-  font-size: 0.8125rem;
+  font-size: 0.7rem;
 }
 #menu2-n .dropdown-item,
 #menu2-n .nav-dropdown-sm .link {
-  font-size: 0.880rem;
+  font-size: 0.758rem;
 }
 #menu2-n .link:hover,
 #menu2-n .link:focus {
@@ -847,6 +865,9 @@ a:hover {
 #menu2-n .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
 }
+#menu2-n .navbar-caption {
+  font-size: 16px;
+}
 #content3-11 .mbr-section-title,
 #content3-11 .mbr-section-subtitle {
   text-align: center;
@@ -855,12 +876,16 @@ a:hover {
   color: #bb2e5e;
   font-size: 30px;
 }
+#content3-11 P {
+  font-family: 'Oxygen', sans-serif;
+}
 #header7-y H3 {
   color: #bb2e5e;
   font-size: 25px;
 }
 #header7-y P {
   color: #000000;
+  font-family: 'Oxygen', sans-serif;
 }
 #header7-z H3 {
   color: #bb2e5e;
@@ -868,6 +893,7 @@ a:hover {
 }
 #header7-z P {
   color: #000000;
+  font-family: 'Oxygen', sans-serif;
 }
 #header7-10 H3 {
   color: #bb2e5e;
@@ -899,11 +925,11 @@ a:hover {
   font-family: 'Oxygen', sans-serif;
 }
 #menu2-13 .link {
-  font-size: 0.8125rem;
+  font-size: 0.7rem;
 }
 #menu2-13 .dropdown-item,
 #menu2-13 .nav-dropdown-sm .link {
-  font-size: 0.880rem;
+  font-size: 0.758rem;
 }
 #menu2-13 .link:hover,
 #menu2-13 .link:focus {
@@ -948,6 +974,9 @@ a:hover {
 #menu2-13 .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
 }
+#menu2-13 .navbar-caption {
+  font-size: 16px;
+}
 #content3-14 .mbr-section-title,
 #content3-14 .mbr-section-subtitle {
   text-align: center;
@@ -977,11 +1006,11 @@ a:hover {
   font-family: 'Oxygen', sans-serif;
 }
 #menu2-15 .link {
-  font-size: 0.8125rem;
+  font-size: 0.7rem;
 }
 #menu2-15 .dropdown-item,
 #menu2-15 .nav-dropdown-sm .link {
-  font-size: 0.880rem;
+  font-size: 0.758rem;
 }
 #menu2-15 .link:hover,
 #menu2-15 .link:focus {
@@ -1026,6 +1055,9 @@ a:hover {
 #menu2-15 .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
 }
+#menu2-15 .navbar-caption {
+  font-size: 16px;
+}
 #form2-16 .heading {
   background: #bb2e5e;
 }
@@ -1047,11 +1079,11 @@ a:hover {
   font-family: 'Oxygen', sans-serif;
 }
 #menu2-19 .link {
-  font-size: 0.8125rem;
+  font-size: 0.7rem;
 }
 #menu2-19 .dropdown-item,
 #menu2-19 .nav-dropdown-sm .link {
-  font-size: 0.880rem;
+  font-size: 0.758rem;
 }
 #menu2-19 .link:hover,
 #menu2-19 .link:focus {
@@ -1095,6 +1127,9 @@ a:hover {
 #menu2-19 .link[aria-expanded="true"],
 #menu2-19 .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
+}
+#menu2-19 .navbar-caption {
+  font-size: 16px;
 }
 #content3-1a .mbr-section-title,
 #content3-1a .mbr-section-subtitle {
