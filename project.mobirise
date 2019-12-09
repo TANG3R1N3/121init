@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "InitCambridge2000",
+    "name": "InitCambridge2020",
     "currentPage": "Application Form.html",
     "theme": {
       "name": "directm",
@@ -13,8 +13,8 @@
         "warningColor": "#FFD785",
         "dangerColor": "#FF9685",
         "titleFont": "Oxygen",
-        "subtitleFont": "Libre Franklin",
-        "textFont": "Libre Franklin",
+        "subtitleFont": "Oxygen",
+        "textFont": "Oxygen",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
@@ -30,10 +30,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.2",
     "siteFonts": [],
-    "uniqCompNum": 50,
+    "uniqCompNum": 48,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/initlogo-128x30-6.png",
+    "favicon": "@PROJECT_PATH@/assets/images/initlogo-128x30-7.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": ""
@@ -180,7 +180,13 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          }
         },
         {
           "_styles": {

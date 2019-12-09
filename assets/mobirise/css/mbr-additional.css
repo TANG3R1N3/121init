@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
 
 
 
@@ -11,11 +10,11 @@ input,
 textarea,
 .mbr-company .list-group-text,
 .mbr-section-text {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 .alert,
 h1,
@@ -32,7 +31,7 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 .btn {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -53,14 +52,14 @@ h6,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block,
 .mbr-section-subtitle {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
   font-style: normal;
 }
 .mbr-author-name {
   font-family: 'Oxygen', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
@@ -68,7 +67,7 @@ h6,
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
   font-style: normal;
 }
 .bg-primary {
@@ -484,7 +483,7 @@ a:hover {
 }
 /* Gallery */
 .mbr-gallery-filter ul li {
-  font-family: 'Libre Franklin', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 .mbr-gallery-filter li {
   color: #74a3c7;
@@ -630,6 +629,13 @@ section.form .container {
 }
 #menu2-6 .navbar-caption {
   font-size: 16px;
+}
+#header4-3 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header4-3 .mbr-table-cell {
+  vertical-align: middle;
 }
 #header4-3 .mbr-iconfont {
   color: undefined;
