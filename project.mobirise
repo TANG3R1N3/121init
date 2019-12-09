@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2020",
-    "currentPage": "Application Form.html",
+    "currentPage": "Contact Us.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.2",
     "siteFonts": [],
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1660,19 +1660,17 @@
         {
           "_params": {
             "googleMap": {
-              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2034.7457048017855!2d18.047247499999994!3d59.337199299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d64ec452ee3%3A0x5bb68b139db17b05!2sInternational%20IT%20College%20of%20Sweden!5e0!3m2!1ssv!2sse!4v1575371407096!5m2!1ssv!2sse\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>",
-              "placeId": "iframe",
-              "state": "ok"
-            },
-            "paddingTop": "0",
-            "paddingBottom": "4",
-            "bgColor": "#fff"
+              "address": "International IT College of Sweden\nHälsobrunnsgatan 6, 113 61 Stockholm",
+              "placeId": "ChIJ4y5F7GSdX0YRBXuxnROLtls",
+              "state": "ok",
+              "stateDetails": ""
+            }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "map2",
-          "_anchor": "map2-1d"
+          "_name": "map1",
+          "_anchor": "map1-1c"
         }
       ]
     },
