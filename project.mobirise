@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-02_1523",
+    "name": "InitCambridge2000",
     "currentPage": "Application Form.html",
     "theme": {
       "name": "directm",
@@ -33,7 +33,7 @@
     "uniqCompNum": 50,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/initlogo-128x30-4.png",
+    "favicon": "@PROJECT_PATH@/assets/images/initlogo-128x30-5.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": ""
