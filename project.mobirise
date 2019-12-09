@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2020",
-    "currentPage": "Application Form.html",
+    "currentPage": "Our School.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -33,7 +33,7 @@
     "uniqCompNum": 48,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/initlogo-128x30-7.png",
+    "favicon": "@PROJECT_PATH@/assets/images/initlogo-128x30-8.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": ""
@@ -434,11 +434,11 @@
               "line-height": "1"
             },
             ".round-text": {
-              "color": "#fff",
+              "color": "#bb2e5e",
               "font-size": "16px"
             },
             "H1": {
-              "color": "#bb2e5e",
+              "color": "#c15555",
               "font-size": "30px"
             }
           },
@@ -695,7 +695,7 @@
           },
           "title2": "What is Mobirise",
           "subtitle2": "Awesome",
-          "text2": "The Advanced Level (A level) is the ‘gold standard’ of Cambridge International Examinations (CIE) qualifications. It is accepted as an entry qualification by universities of the European Union and very many around the world, on a par with the French Baccalaureate, the German Abitur, etc. These qualifications are also recognised by employers around the world (including Sweden) as evidence of high academic ability. \n<br>\n<br>\n<br>Fees for external students wishing to take their examinations at our course centre. (link to fees page)",
+          "text2": "The Advanced Level (A level) is the ‘gold standard’ of Cambridge International Examinations (CIE) qualifications. It is accepted as an entry qualification by universities of the European Union and very many around the world, on a par with the French Baccalaureate, the German Abitur, etc. These qualifications are also recognised by employers around the world (including Sweden) as evidence of high academic ability. \n<br>\n<br>\n<br>Fees for external students wishing to take their examinations at our course centre. <a href=\"Examination fees.html\" class=\"text-danger\">(link to fees page)</a>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -710,7 +710,7 @@
           },
           "title3": "What is Mobirise",
           "subtitle3": "Awesome",
-          "text3": "The general admission requirement for most universities around the globe (including universities in Sweden) is to have gained A- and AS-levels in three different subjects (minimum requirement is normally 2 A levels and 1 AS level).\n<br>How to apply for the Cambridge qualifications as an external student?\n<br>As a private candidate, you can apply to take CIE examinations for the IGCSE; O Level; AS &amp; A Level International syllabuses. Please contact our Cambridge International Examinations Coordinator Mr. Simon Whittaker for more detail regarding your application. (link to contact form)\n<br>Find out more on Cambridge qualifications: http://cie.org.uk/",
+          "text3": "The general admission requirement for most universities around the globe (including universities in Sweden) is to have gained A- and AS-levels in three different subjects (minimum requirement is normally 2 A levels and 1 AS level).\n<br>How to apply for the Cambridge qualifications as an external student?\n<br>As a private candidate, you can apply to take CIE examinations for the IGCSE; O Level; AS &amp; A Level International syllabuses. Please contact our Cambridge International Examinations Coordinator Mr. Simon Whittaker for more detail regarding your application. (link to contact form)\n<br>Find out more on Cambridge qualifications: <a href=\"http://cie.org.uk/\" class=\"text-danger\">http://cie.org.uk/</a>",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
