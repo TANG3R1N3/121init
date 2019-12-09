@@ -832,8 +832,11 @@ section.form .container {
 #menu2-l .navbar-caption {
   font-size: 16px;
 }
+#content1-1d P {
+  text-align: center;
+}
 .cid-rK9dkEzocy {
-  padding-top: 150px;
+  padding-top: 15px;
   padding-bottom: 75px;
   background-color: #d2cccc;
 }
