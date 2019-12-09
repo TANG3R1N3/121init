@@ -965,6 +965,9 @@
             },
             "H4": {
               "color": "#bb2e5e"
+            },
+            "LABEL": {
+              "color": "#bb2e5e"
             }
           },
           "_name": "formbuilder",
