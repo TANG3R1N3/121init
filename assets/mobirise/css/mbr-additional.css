@@ -841,122 +841,20 @@ section.form .container {
 #content1-1d P {
   text-align: center;
 }
-.cid-rK9dkEzocy {
-  padding-top: 15px;
-  padding-bottom: 75px;
-  background-color: #d2cccc;
-}
-.cid-rK9dkEzocy .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-rK9dkEzocy .form-control,
-.cid-rK9dkEzocy .field-input {
-  padding: 0.5rem;
-  background-color: #ffffff;
-  border-color: #cccccc;
-  color: #000000;
-  transition: 0.4s;
-  box-shadow: none;
-  outline: none;
-}
-.cid-rK9dkEzocy .form-control input::-webkit-input-placeholder,
-.cid-rK9dkEzocy .field-input input::-webkit-input-placeholder,
-.cid-rK9dkEzocy .form-control textarea::-webkit-input-placeholder,
-.cid-rK9dkEzocy .field-input textarea::-webkit-input-placeholder {
-  color: #c1c1c1;
-}
-.cid-rK9dkEzocy .form-control input:-moz-placeholder,
-.cid-rK9dkEzocy .field-input input:-moz-placeholder,
-.cid-rK9dkEzocy .form-control textarea:-moz-placeholder,
-.cid-rK9dkEzocy .field-input textarea:-moz-placeholder {
-  color: #c1c1c1;
-}
-.cid-rK9dkEzocy .form-control:hover,
-.cid-rK9dkEzocy .field-input:hover,
-.cid-rK9dkEzocy .form-control:focus,
-.cid-rK9dkEzocy .field-input:focus {
-  background-color: #bb2e5e;
-  border-color: #000000;
-  color: #ffffff;
-  box-shadow: none;
-  outline: none;
-}
-.cid-rK9dkEzocy .form-control:hover input::-webkit-input-placeholder,
-.cid-rK9dkEzocy .field-input:hover input::-webkit-input-placeholder,
-.cid-rK9dkEzocy .form-control:focus input::-webkit-input-placeholder,
-.cid-rK9dkEzocy .field-input:focus input::-webkit-input-placeholder,
-.cid-rK9dkEzocy .form-control:hover textarea::-webkit-input-placeholder,
-.cid-rK9dkEzocy .field-input:hover textarea::-webkit-input-placeholder,
-.cid-rK9dkEzocy .form-control:focus textarea::-webkit-input-placeholder,
-.cid-rK9dkEzocy .field-input:focus textarea::-webkit-input-placeholder {
-  color: #000000;
-}
-.cid-rK9dkEzocy .form-control:hover input:-moz-placeholder,
-.cid-rK9dkEzocy .field-input:hover input:-moz-placeholder,
-.cid-rK9dkEzocy .form-control:focus input:-moz-placeholder,
-.cid-rK9dkEzocy .field-input:focus input:-moz-placeholder,
-.cid-rK9dkEzocy .form-control:hover textarea:-moz-placeholder,
-.cid-rK9dkEzocy .field-input:hover textarea:-moz-placeholder,
-.cid-rK9dkEzocy .form-control:focus textarea:-moz-placeholder,
-.cid-rK9dkEzocy .field-input:focus textarea:-moz-placeholder {
-  color: #000000;
-}
-.cid-rK9dkEzocy .jq-number__spin:hover,
-.cid-rK9dkEzocy .jq-number__spin:focus {
-  background-color: #bb2e5e;
-  border-color: #000000;
-  color: #ffffff;
-  box-shadow: none;
-  outline: none;
-}
-.cid-rK9dkEzocy .jq-number__spin {
-  background-color: #ffffff;
-  border-color: #cccccc;
-  color: #000000;
-  transition: 0.4s;
-  box-shadow: none;
-  outline: none;
-}
-.cid-rK9dkEzocy .jq-selectbox li,
-.cid-rK9dkEzocy .jq-selectbox li {
-  background-color: #ffffff;
-  color: #000000;
-}
-.cid-rK9dkEzocy .jq-selectbox li:hover,
-.cid-rK9dkEzocy .jq-selectbox li.selected {
-  background-color: #bb2e5e;
+#header5-1c .mbr-section-title,
+#header5-1c .mbr-section-subtitle {
+  margin-bottom: 1rem;
   color: #ffffff;
 }
-.cid-rK9dkEzocy .jq-selectbox:hover .jq-selectbox__trigger-arrow,
-.cid-rK9dkEzocy .jq-number__spin.minus:hover:after,
-.cid-rK9dkEzocy .jq-number__spin.plus:hover:after {
-  border-top-color: #ffffff;
-  border-bottom-color: #ffffff;
+#header5-1c .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
 }
-.cid-rK9dkEzocy .jq-selectbox .jq-selectbox__trigger-arrow,
-.cid-rK9dkEzocy .jq-number__spin.minus:after,
-.cid-rK9dkEzocy .jq-number__spin.plus:after {
-  border-top-color: #bb2e5e;
-  border-bottom-color: #bb2e5e;
+#header5-1c .mbr-table-cell {
+  vertical-align: middle;
 }
-.cid-rK9dkEzocy input::-webkit-clear-button {
-  display: none;
-}
-.cid-rK9dkEzocy input::-webkit-inner-spin-button {
-  display: none;
-}
-.cid-rK9dkEzocy input::-webkit-outer-spin-button {
-  display: none;
-}
-.cid-rK9dkEzocy input::-webkit-calendar-picker-indicator {
-  display: none;
-}
-.cid-rK9dkEzocy H4 {
-  color: #bb2e5e;
-}
-.cid-rK9dkEzocy LABEL {
-  color: #bb2e5e;
+#header5-1c .heading-title {
+  font-size: 32px;
 }
 
 
