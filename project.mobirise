@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2020",
-    "currentPage": "Application Form.html",
+    "currentPage": "Examination fees.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -928,7 +928,7 @@
           },
           "title": "A-Level (per subject)\n<div>2750 SEK</div>",
           "text": "This fee includes: Cambridge charges, INIT administration and supervision costs ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
           "_tags": [
             "Theme"
           ],
@@ -989,7 +989,7 @@
           },
           "title": "AS-A2 Level (per subject)\n<div>2350 SEK</div>",
           "text": "This fee includes: Cambridge charges, INIT administration and supervision costs",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
           "_tags": [
             "Theme"
           ],
@@ -1050,7 +1050,7 @@
           },
           "title": "IGCSE-Level (per subject)\n<div>2190 SEK</div>",
           "text": "This fee includes: Cambridge charges, INIT administration and supervision costs",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
           "_tags": [
             "Theme"
           ],
