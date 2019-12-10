@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2020",
-    "currentPage": "page6.html",
+    "currentPage": "FAQ.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1624,7 +1624,7 @@
         }
       ]
     },
-    "page6.html": {
+    "Application Form.html": {
       "settings": {
         "title": "Application Form",
         "order": 2
