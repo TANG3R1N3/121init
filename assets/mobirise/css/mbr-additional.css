@@ -770,93 +770,6 @@ section.form .container {
   text-align: left;
 }
 
-#menu2-l .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu2-l .navbar-toggler {
-  color: #fffffd;
-}
-#menu2-l .close-icon::before,
-#menu2-l .close-icon::after {
-  background-color: #fffffd;
-}
-#menu2-l .link,
-#menu2-l .dropdown-item {
-  color: #fffffd;
-  font-family: 'Oxygen', sans-serif;
-}
-#menu2-l .link {
-  font-size: 0.7rem;
-}
-#menu2-l .dropdown-item,
-#menu2-l .nav-dropdown-sm .link {
-  font-size: 0.758rem;
-}
-#menu2-l .link:hover,
-#menu2-l .link:focus {
-  color: #000000;
-}
-#menu2-l .dropdown-item:hover::before,
-#menu2-l .dropdown-item:focus::before {
-  background: #000000;
-}
-#menu2-l .dropdown-item:hover,
-#menu2-l .dropdown-item:focus {
-  color: #fffffd;
-}
-#menu2-l .link[aria-expanded="true"],
-#menu2-l .dropdown-menu {
-  background: #bb2e5e;
-}
-#menu2-l .nav-dropdown-sm .link:focus,
-#menu2-l .nav-dropdown-sm .link:hover,
-#menu2-l .nav-dropdown-sm .dropdown-item:focus,
-#menu2-l .nav-dropdown-sm .dropdown-item:hover {
-  background: #af2b58!important;
-}
-#menu2-l .navbar,
-#menu2-l .nav-dropdown-sm,
-#menu2-l .nav-dropdown-sm .link[aria-expanded="true"],
-#menu2-l .nav-dropdown-sm .dropdown-menu {
-  background: #bb2e5e;
-}
-#menu2-l .bg-color.transparent .link {
-  color: #fffffd;
-  transition: none;
-}
-#menu2-l .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu2-l .bg-color.transparent.opened .link:hover,
-#menu2-l .bg-color.transparent.opened .link:focus {
-  color: #000000;
-}
-#menu2-l .link[aria-expanded="true"],
-#menu2-l .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
-}
-#menu2-l .navbar-caption {
-  font-size: 16px;
-}
-#content1-1d P {
-  text-align: center;
-}
-#header5-1c .mbr-section-title,
-#header5-1c .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #ffffff;
-}
-#header5-1c .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#header5-1c .mbr-table-cell {
-  vertical-align: middle;
-}
-#header5-1c .heading-title {
-  font-size: 32px;
-}
-
 
 
 
@@ -1209,4 +1122,88 @@ section.form .container {
 #accordion1-1b H1 {
   color: #bb2e5e;
   font-size: 20px;
+}
+
+#menu2-1d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-1d .navbar-toggler {
+  color: #fffffd;
+}
+#menu2-1d .close-icon::before,
+#menu2-1d .close-icon::after {
+  background-color: #fffffd;
+}
+#menu2-1d .link,
+#menu2-1d .dropdown-item {
+  color: #fffffd;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu2-1d .link {
+  font-size: 0.7rem;
+}
+#menu2-1d .dropdown-item,
+#menu2-1d .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#menu2-1d .link:hover,
+#menu2-1d .link:focus {
+  color: #000000;
+}
+#menu2-1d .dropdown-item:hover::before,
+#menu2-1d .dropdown-item:focus::before {
+  background: #000000;
+}
+#menu2-1d .dropdown-item:hover,
+#menu2-1d .dropdown-item:focus {
+  color: #fffffd;
+}
+#menu2-1d .link[aria-expanded="true"],
+#menu2-1d .dropdown-menu {
+  background: #bb2e5e;
+}
+#menu2-1d .nav-dropdown-sm .link:focus,
+#menu2-1d .nav-dropdown-sm .link:hover,
+#menu2-1d .nav-dropdown-sm .dropdown-item:focus,
+#menu2-1d .nav-dropdown-sm .dropdown-item:hover {
+  background: #af2b58!important;
+}
+#menu2-1d .navbar,
+#menu2-1d .nav-dropdown-sm,
+#menu2-1d .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-1d .nav-dropdown-sm .dropdown-menu {
+  background: #bb2e5e;
+}
+#menu2-1d .bg-color.transparent .link {
+  color: #fffffd;
+  transition: none;
+}
+#menu2-1d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-1d .bg-color.transparent.opened .link:hover,
+#menu2-1d .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#menu2-1d .link[aria-expanded="true"],
+#menu2-1d .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#menu2-1d .navbar-caption {
+  font-size: 16px;
+}
+#header5-1e .mbr-section-title,
+#header5-1e .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#header5-1e .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header5-1e .mbr-table-cell {
+  vertical-align: middle;
+}
+#header5-1e .heading-title {
+  font-size: 30px;
 }
