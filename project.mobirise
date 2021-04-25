@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "Our School.html",
+    "currentPage": "Application Form.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -913,7 +913,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://initcambridge.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INIT Cambridge</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://initcambridge.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INIT Exams</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -1276,7 +1276,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://initcambridge.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INIT Cambridge</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://initcambridge.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INIT Exams</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -1786,7 +1786,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://initcambridge.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INIT Cambridge</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://initcambridge.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INIT Exams</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -1835,7 +1835,7 @@
             }
           },
           "title": "Apply Here",
-          "text": "We  accept external students who wish to sit Cambridge A- Level and IGCSE exams at our course centre. \n<br>Please fill in the application form and the examination officer will reply to you shortly.\n<br><br>Hälsobrunnsgatan 6, 113 61 Stockholm\n<br>\n<br><a href=\"tel:08-704 22 15 \" class=\"text-black\">08-704 22 15\n</a><br><a href=\"tel:08-704 22 15 \" class=\"text-black\"><br></a><br><a href=\"mailto:cambridge@initcollege.com\" class=\"text-black\">cambridge@initcollege.com</a>",
+          "text": "We  accept external students who wish to sit Cambridge A- Level and IGCSE exams at our course centre. \n<br>Please fill in the application form and the examination officer will reply to you shortly.\n<br><br>Hälsobrunnsgatan 6, 113 61 Stockholm\n<br>\n<br><a href=\"tel:08-704 22 15 \" class=\"text-black\">08-704 22 15\n</a><br><a href=\"tel:08-704 22 15 \" class=\"text-black\"><br></a><br>exams@initcollege.com",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Application Form</a>",
           "_tags": [
             "Theme"
@@ -1848,7 +1848,7 @@
             },
             "P": {
               "font-size": "14px",
-              "color": "#616161"
+              "color": "#e3d9d9"
             }
           }
         }
@@ -1952,7 +1952,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://initcambridge.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INIT Cambridge</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://initcambridge.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INIT Exams</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
