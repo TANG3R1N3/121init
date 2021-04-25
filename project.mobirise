@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "Contact Us.html",
+    "currentPage": "Online Training.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1261,8 +1261,8 @@
             "paddingBottom": 3,
             "bgColor": "#fff"
           },
-          "title": "<br><br><br>INIT Cambridge Online Training",
-          "meta": "<br>Online Training is Under Development - Coming 1st Quarter 2020\n<br>Please refer to this page for further information.&nbsp;",
+          "title": "<br><br><br>INIT Exams Online Training",
+          "meta": "<br>Online Training is Under Development - Coming 2nd Quarter 2021&nbsp;<br>Please refer to this page for further information.&nbsp;",
           "_tags": [
             "Theme"
           ],
