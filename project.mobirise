@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "Examination fees.html",
+    "currentPage": "Online Training.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1306,7 +1306,7 @@
             "bgColor": "#fff"
           },
           "title": "<br><br><br>INIT Exams Online Training",
-          "meta": "<br>Online Training is Under Development - Coming 2nd Quarter 2021&nbsp;<br>Please refer to this page for further information.&nbsp;",
+          "meta": "<br>Online Training is Under Development - Coming 3rd Quarter 2021&nbsp;<br>Please refer to this page for further information.&nbsp;",
           "_tags": [
             "Theme"
           ],
