@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "Examination fees.html",
+    "currentPage": "Contact Us.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1425,11 +1425,11 @@
           "_params": {
             "showHeading": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showCheckbox": true,
             "formBg": "#bb2e5e",
             "formHeader": true,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -1445,7 +1445,7 @@
             "overlayOpacity": 0.95
           },
           "title": "Contact Us",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "header": "Please feel free to contact us with any questions or queries you may have.",
           "form": {
