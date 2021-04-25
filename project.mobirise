@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "Contact Us.html",
+    "currentPage": "FAQ.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1667,13 +1667,13 @@
           "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseThreeaccordion1-1b\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Can the school provide any pre-exam teacher help and assistance.</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseFouraccordion1-1b\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Where is the school located?</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseFiveaccordion1-1b\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Can we get a refund if we decide not to take the exams?</a>",
-          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseSixaccordion1-1b\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Is it possible to take full-time A level studies at the school?</a>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseSixaccordion1-1b\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Is it possible to take full-time International A level studies at the school?</a>",
           "text1": "<p>The short answer is no. But we do have good contact wtih the hostel on the 8th floor ot the school building. We recommend that you contact them directly for their very good accomodation rates. But please note: their very best daily rates are for shared accommodation. (link to Crawfoord place). Single rooms are available - but they are more expensive.</p><br><p><a href=\"http://crafoordplace.com/start/en-stockholm\">http://crafoordplace.com/start/en-stockholm</a></p>",
           "text2": "<p>Cambridge administraion ZONE 3\n</p><p>\n<span style=\"font-size: 1rem;\">Sweden observes Daylight Saving Time (DST) between&nbsp;</span></p><p>Sunday 29 Mar 2020 - Sunday 25 Oct 2020\n</p><p>\n<span style=\"font-size: 1rem;\">Morning session Key Time&nbsp;</span></p><p>Whilst NOT observing DST\n</p><p>10:00\n</p><p>\n<span style=\"font-size: 1rem;\">Whilst observing DST&nbsp;</span></p><p>( 29 Mar 2020 - 25 Oct 2020 )\n</p><p>11:00\n</p><p>\n<span style=\"font-size: 1rem;\">Afternoon session Key Time&nbsp;</span></p><p>Whilst NOT observing DST\n</p><p>14:00\n</p><p>\n<span style=\"font-size: 1rem;\">Whilst observing DST&nbsp;</span></p><p>( 29 Mar 2020 - 25 Oct 2020 )\n</p><p>15:00</p>",
           "text3": "<p>We have had this request on a number of occasions. We have, therefore, now decided to offer some online teacher assistance. Please refer to the online training link in the navigation bar.&nbsp;</p>",
           "text4": "<p>The school is located in the centre of Stockholm. It is a fifteen minute walk from the central train station and a few minutes walk from Drottnigsgatan, one of Stockholm's main shopping streets.</p>",
           "text5": "Cambridge will charge for applications submitted on the final registration day. They may allow refunds prior to this date under special circumstances, but not after this deadline.\r<div>The school is therefore unable to make any refunds for submitted applications after the final registration day deadline.</div>",
-          "text6": "<p>The school does not presently run A level courses per se. The school's priority is education for the Swedish sixth form qualification (gmynasiekompetens). However, a number of subjects are taught up to the Cambridge A level standard, in English, and the school has assisted a number of students with their A level studies. Contact the deputy headmaster for more detailed information</p>",
+          "text6": "<p>The school does not presently run International A level courses per se. The school's priority is education for the Swedish sixth form qualification (gmynasiekompetens). However, a number of subjects are taught up to the Cambridge A level standard, in English, and the school has assisted a number of students with their A level studies. Contact the deputy headmaster for more detailed information</p>",
           "_tags": [
             "Theme"
           ],
