@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "Application Form.html",
+    "currentPage": "Examination fees.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -990,8 +990,8 @@
               "loop": false
             }
           },
-          "title": "A-Level <br>(per subject)\n<div>2750 SEK</div>",
-          "text": "This fee includes: Cambridge charges, INIT administration and supervision costs ",
+          "title": "International A-Level <br>(per subject)\n<div>2750 SEK</div>",
+          "text": "This fee includes: Cambridge International charges, INIT administration and supervision costs ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
           "_tags": [
             "Theme"
@@ -1051,8 +1051,8 @@
               "loop": false
             }
           },
-          "title": "AS-A2 Level <br>(per subject)\n<div>2350 SEK</div>",
-          "text": "This fee includes: Cambridge charges, INIT administration and supervision costs",
+          "title": "International AS-A2 Level <br>(per subject)\n<div>2350 SEK</div>",
+          "text": "This fee includes: Cambridge International charges, INIT administration and supervision costs",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
           "_tags": [
             "Theme"
@@ -1113,7 +1113,7 @@
             }
           },
           "title": "IGCSE-Level <br>(per subject)\n<div><span style=\"letter-spacing: 0px; background-color: initial;\">2190 SEK</span><br></div>",
-          "text": "This fee includes: Cambridge charges, INIT administration and supervision costs",
+          "text": "This fee includes: Cambridge International charges, INIT administration and supervision costs",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
           "_tags": [
             "Theme"
@@ -1161,7 +1161,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "Practical examinations will incur an extra charge (1000 kr) to cover material costs, test preparation and additional supervision.\n<br>\n<br>For more information about sitting other Cambridge examinations, for example A2, please contact us via the contact page",
+          "text": "Practical examinations will incur an extra charge (1000 kr) to cover material costs, test preparation and additional supervision.\n<br>\n<br>For more information about sitting other Cambridge&nbsp;International examinations, for example A2, please contact us via the contact page",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
