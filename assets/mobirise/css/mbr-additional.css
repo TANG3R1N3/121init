@@ -658,6 +658,18 @@ section.form .container {
   font-family: 'Oxygen', sans-serif;
   font-size: 30px;
 }
+#content7-1f .mbr-section-title,
+#content7-1f .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #fff;
+}
+#content7-1f .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content7-1f .mbr-table-cell {
+  vertical-align: middle;
+}
 #content8-a P {
   font-family: 'Oxygen', sans-serif;
   color: #bb2e5e;

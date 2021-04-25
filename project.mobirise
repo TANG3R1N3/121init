@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "Contact Us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.2",
     "siteFonts": [],
-    "uniqCompNum": 51,
+    "uniqCompNum": 52,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -197,7 +197,7 @@
           ],
           "_name": "header4",
           "_anchor": "header4-3",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-after-navbar\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/school02-1034x495.png&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(97, 97, 97);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"10\">INIT Exams</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"11\">Cambridge International Examination Centre - Stockholm</p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-after-navbar\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/school02-1034x495.png&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(97, 97, 97);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"10\">INIT Exams</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"11\">Cambridge International School – Offering Examinations to Private Candidates</p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
@@ -240,6 +240,46 @@
           "_anchor": "content3-7"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/content/content7.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#bb2e5e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": 0.5
+          },
+          "title": "Article Header",
+          "text": "The International IT College of Sweden is a Swedish gymnasieskola (high school) which prepares students for the gynasiekompetens qualification. It is also a Cambridge International school and a recognised examination centre for the Cambridge O level, IGCSE and International A level qualifications. We accept external, private candidates to take their Cambridge International examinations at our centre.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Watch Demo</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-1f"
+        },
+        {
           "_params": {
             "showTitle": false,
             "showText": true,
@@ -268,7 +308,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "<a href=\"https://www.initcollege.net/cambridge/applications/form.html\" class=\"text-black\" style=\"font-style: normal;\">&nbsp; &nbsp; &nbsp;Application Form</a>",
+          "text": "<a href=\"https://www.initcollege.net/cambridge/applications/form.html\" class=\"text-black\" style=\"font-style: normal;\">Application Form</a>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
@@ -1385,8 +1425,8 @@
             "showCheckbox": true,
             "formBg": "#bb2e5e",
             "formHeader": true,
-            "paddingTop": "3",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
