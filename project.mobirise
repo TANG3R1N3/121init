@@ -25,7 +25,8 @@
         "#e3d9d9",
         "#d2cccc",
         "#bf359d",
-        "#424a4d"
+        "#424a4d",
+        "#ffffff"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -248,15 +249,18 @@
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": false,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "contentAlign": "center",
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/content/content7.jpg",
             "parallax": false,
@@ -272,7 +276,7 @@
           },
           "title": "Article Header",
           "text": "The International IT College of Sweden is a Swedish gymnasieskola (high school) which prepares students for the gynasiekompetens qualification. It is also a Cambridge International school and a recognised examination centre for the Cambridge O level, IGCSE and International A level qualifications. We accept external, private candidates to take their Cambridge International examinations at our centre.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Watch Demo</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Cambridge International</a>",
           "_tags": [
             "Theme"
           ],
