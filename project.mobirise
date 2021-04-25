@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "index.html",
+    "currentPage": "Our School.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -533,7 +533,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.8
           },
-          "text1": "Becoming a Cambridge school is our way of showing our commitment to excellence in education. We are part of the University of Cambridge A-Level programme and share in their educational values. The A-level subjects presently being studied are: Mathematics, English, Business, Biology, Physics and Chemistry. Practical examinations for the A-level examinations in the science subjects is one of our functions. Our college laboratories are equipped up to Cambridge academic standard. ",
+          "text1": "Becoming an International Cambridge school is our way of showing our commitment to excellence in education. We are part of the University of Cambridge International A-Level programme and share in their educational values. The A-level subjects presently being studied are: Mathematics, English, Business, Biology, Physics and Chemistry. Practical examinations for the International A-level examinations in the science subjects is one of our functions. Our college laboratories are equipped up to Cambridge academic standard. ",
           "_tags": [
             "Theme"
           ],
@@ -745,7 +745,7 @@
           },
           "title1": "What is Mobirise",
           "subtitle1": "Awesome",
-          "text1": "International IT College\n<br>Cambridge examination centre\n<br>Information for External Candidates\n<br>\n<br>Our (sixth form) college is an accredited Cambridge International School. Although our school is primarily orientated towards the Swedish sixth form qualification (gymnasiekompetens), we also teach our students to Cambridge A level standard, and give them the opportunity to sit for these high-level qualifications.\n<br>\n<br>Please note that we do not presently enrol students to our school who only wish to study for the Cambridge examinations. We are, however, a Cambridge examination centre, and we do allow external students to sit their Cambridge examinations at our course centre. We are Test Centre SE085.",
+          "text1": "International IT College\n<br>International Cambridge examination centre\n<br>Information for External Candidates\n<br>\n<br>Our (sixth form) college is an accredited International Cambridge International School. Although our school is primarily orientated towards the Swedish sixth form qualification (gymnasiekompetens), we also teach our students up to Cambridge A level standard, and give them the opportunity to sit for these high-level qualifications.\n<br>\n<br>Please note that we do not presently enrol students to our school who only wish to study for the International Cambridge examinations. We are, however, an international Cambridge examination centre, and we do allow external students to sit their International Cambridge examinations at our course centre. We are Test Centre SE085.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -761,7 +761,7 @@
           },
           "title2": "What is Mobirise",
           "subtitle2": "Awesome",
-          "text2": "The Advanced Level (A level) is the ‘gold standard’ of Cambridge International Examinations (CIE) qualifications. It is accepted as an entry qualification by universities of the European Union and very many around the world, on a par with the French Baccalaureate, the German Abitur, etc. These qualifications are also recognised by employers around the world (including Sweden) as evidence of high academic ability. \n<br>\n<br>\n<br>Fees for external students wishing to take their examinations at our course centre. <a href=\"Examination fees.html\" class=\"text-danger\">(link to fees page)</a>",
+          "text2": "The Advanced Level (A level) is the ‘gold standard’ of Cambridge International Examinations (CAIE) qualifications. It is accepted as an entry qualification by universities of the European Union and very many around the world, on a par with the French Baccalaureate, the German Abitur, etc. These qualifications are also recognised by employers around the world (including Sweden) as evidence of high academic ability. \n<br>\n<br>\n<br>Fees for external students wishing to take their examinations at our course centre. <a href=\"Examination fees.html\" class=\"text-danger\">(link to fees page)</a>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -776,7 +776,7 @@
           },
           "title3": "What is Mobirise",
           "subtitle3": "Awesome",
-          "text3": "The general admission requirement for most universities around the globe (including universities in Sweden) is to have gained A- and AS-levels in three different subjects (minimum requirement is normally 2 A levels and 1 AS level).\n<br>How to apply for the Cambridge qualifications as an external student?\n<br>As a private candidate, you can apply to take CIE examinations for the IGCSE; O Level; AS &amp; A Level International syllabuses. Please contact our Cambridge International Examinations Coordinator Mr. Simon Whittaker for more detail regarding your application. (link to contact form)\n<br>Find out more on Cambridge qualifications: <a href=\"http://cie.org.uk/\" class=\"text-danger\">http://cie.org.uk/</a>",
+          "text3": "The general admission requirement for most universities around the globe (including universities in Sweden) is to have gained A- and AS-levels in three different subjects (minimum requirement is normally 2 A levels and 1 AS level).\n<br>How to apply for the Cambridge qualifications as an external student?\n<br>As a private candidate, you can apply to take CAIE examinations for the IGCSE; O Level; AS &amp; A Level International syllabuses. Please contact our Cambridge International Examinations Coordinator Mr. Simon Whittaker for more detail regarding your application. <a href=\"Contact Us.html\" class=\"text-primary\">(link to contact form)\n</a><br>Find out more about International Cambridge qualifications: <a href=\"http://cie.org.uk/\" class=\"text-danger\">https://www.cambridgeinternational.org/</a>",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
