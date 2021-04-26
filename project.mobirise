@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "FAQ.html",
+    "currentPage": "Application Form.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1808,7 +1808,7 @@
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#fffffd",
+            "containerColor1": "#bb2e5e",
             "containerColor2": "#bb2e5e",
             "bgVideoRadio": false,
             "bgVideo": {
