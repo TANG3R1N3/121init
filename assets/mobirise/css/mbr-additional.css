@@ -654,7 +654,7 @@ section.form .container {
   font-size: 46px;
 }
 #content3-7 P {
-  color: #fffffd;
+  color: #bb2e5e;
   font-family: 'Oxygen', sans-serif;
   font-size: 30px;
 }
@@ -1052,8 +1052,11 @@ section.form .container {
 #menu2-15 .navbar-caption {
   font-size: 16px;
 }
-#form2-16 .heading {
-  background: #bb2e5e;
+#form1-1h .form {
+  background: #fafbfc;
+}
+#form1-1h .heading-title {
+  color: #bb2e5e;
 }
 
 
