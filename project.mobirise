@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "FAQ.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.2",
     "siteFonts": [],
-    "uniqCompNum": 57,
+    "uniqCompNum": 59,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -198,7 +198,7 @@
           ],
           "_name": "header4",
           "_anchor": "header4-3",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-after-navbar\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/school02-1034x495.png&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(97, 97, 97);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"10\">INIT Exams</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"11\">Cambridge International School – Offering Examinations to Private Candidates</p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-after-navbar\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/school02-1034x495.png&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(97, 97, 97);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"28\">INIT Exams</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"29\">Cambridge International School – Offering Examinations to Private Candidates</p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
@@ -299,10 +299,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ocr-765x734.png",
-              "link": "",
+              "src": "@PROJECT_PATH@/assets/images/https-exams-form-200x200.png",
+              "link": "http://initexams.com/forms.html ",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -439,6 +440,63 @@
             }
           },
           "_anchor": "header7-1g"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "autoplay": false,
+            "arrowColor": "#d2cccc",
+            "timeout": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#d2cccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "slides": [
+              {
+                "active": true,
+                "text": "<p>The abbreviation<b> CAIE</b> will be used for <b>Cambridge Assessment International Education</b> throughout this website&nbsp;</p>",
+                "authorName": "Suffian A.",
+                "authorBio": "",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@/components/_images/slider/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "What our fantastic users say",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1l",
+          "_styles": {
+            ".card-block": {
+              "color": "#fffffd"
+            }
+          }
         }
       ]
     },
@@ -589,7 +647,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.8
           },
-          "text1": "Becoming an International Cambridge school is our way of showing our commitment to excellence in education. We are part of the University of Cambridge International A-Level programme and share in their educational values. The A-level subjects presently being studied are: Mathematics, English, Business, Biology, Physics and Chemistry. Practical examinations for the International A-level examinations in the science subjects is one of our functions. Our college laboratories are equipped up to Cambridge academic standard. ",
+          "text1": "Becoming an Cambridge International (CAIE) school  is our way of showing our commitment to excellence in education. We are part of the University of Cambridge International A-Level programme and share in their educational values. The A-level subjects presently being studied are: Mathematics, English, Business, Biology, Physics and Chemistry. Practical examinations for the International A-level examinations in the science subjects is one of our functions. Our college laboratories are equipped up to Cambridge academic standard. ",
           "_tags": [
             "Theme"
           ],
@@ -817,7 +875,7 @@
           },
           "title2": "What is Mobirise",
           "subtitle2": "Awesome",
-          "text2": "The Advanced Level (A level) is the ‘gold standard’ of Cambridge International Examinations (CAIE) qualifications. It is accepted as an entry qualification by universities of the European Union and very many around the world, on a par with the French Baccalaureate, the German Abitur, etc. These qualifications are also recognised by employers around the world (including Sweden) as evidence of high academic ability. \n<br>\n<br>\n<br>Fees for external students wishing to take their examinations at our course centre. <a href=\"Examination fees.html\" class=\"text-danger\">(link to fees page)</a>",
+          "text2": "The Advanced International Level (A level) is the ‘gold standard’ of Cambridge International Examinations (CAIE) qualifications. It is accepted as an entry qualification by universities of the European Union and very many around the world, on a par with the French Baccalaureate, the German Abitur, etc. These qualifications are also recognised by employers around the world (including Sweden) as evidence of high academic ability. \n<br>\n<br>\n<br>Fees for external students wishing to take their examinations at our course centre. <a href=\"Examination fees.html\" class=\"text-danger\">(link to fees page)</a>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -832,7 +890,7 @@
           },
           "title3": "What is Mobirise",
           "subtitle3": "Awesome",
-          "text3": "The general admission requirement for most universities around the globe (including universities in Sweden) is to have gained A- and AS-levels in three different subjects (minimum requirement is normally 2 A levels and 1 AS level).\n<br>How to apply for the Cambridge qualifications as an external student?\n<br>As a private candidate, you can apply to take CAIE examinations for the IGCSE; O Level; AS &amp; A Level International syllabuses. Please contact our Cambridge International Examinations Coordinator Mr. Simon Whittaker for more detail regarding your application. <a href=\"Contact Us.html\" class=\"text-danger\">(link to contact form)\n</a><br>Find out more about International Cambridge qualifications: <a href=\"http://cie.org.uk/\" class=\"text-danger\">https://www.cambridgeinternational.org/</a>",
+          "text3": "The general admission requirement for most universities around the globe (including universities in Sweden) is to have gained A- and AS-levels in three different subjects (minimum requirement is normally 2 A levels and 1 AS level).\n<br>How to apply for the Cambridge International qualifications as an external student?<br>As a private candidate, you can apply to take CAIE examinations for the IGCSE; O Level; AS &amp; A Level International syllabuses. Please contact our Cambridge International Examinations Coordinator Mr. Simon Whittaker for more detail regarding your application. <a href=\"Contact Us.html\" class=\"text-danger\">(link to contact form)\n</a><br>Find out more about International Cambridge qualifications: <a href=\"http://cie.org.uk/\" class=\"text-danger\">https://www.cambridgeinternational.org/</a>",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
@@ -1217,7 +1275,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "Practical examinations will incur an extra charge (1000 kr) to cover material costs, test preparation and additional supervision.\n<br>\n<br>For more information about sitting other Cambridge&nbsp;International examinations, for example A2, please contact us via the contact page",
+          "text": "Practical examinations will incur an extra charge (1000 kr) to cover material costs, test preparation and additional supervision.\n<br>\n<br><br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
@@ -1483,7 +1541,7 @@
             "paddingBottom": 1,
             "showHeading": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "formBg": "#fafbfc",
             "formHeader": true,
@@ -1501,7 +1559,7 @@
             "overlayOpacity": 0.95
           },
           "title": "Feel free to contact us",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "text": "International IT College of Sweden Stockholm\n<br>\tHälsobrunnsgatan 6\n<br>\t102 28 Stockholm",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
           "header": "",
           "form": {
@@ -1545,21 +1603,6 @@
               "color": "#bb2e5e"
             }
           }
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "International IT College of Sweden\nHälsobrunnsgatan 6, 113 61 Stockholm",
-              "placeId": "ChIJ4y5F7GSdX0YRBXuxnROLtls",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-1c"
         }
       ]
     },
@@ -1733,7 +1776,7 @@
             "overlayOpacity": 0.9
           },
           "title": "---------------",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseOneaccordion1-1b\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Can the school help external students with overnight accommodation prior to their exams?</a>",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseOneaccordion1-1b\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Can the school help external students with overnight accommodation prior to their exams?</a>",
           "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseTwoaccordion1-1b\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">What are the exam start times?</a>",
           "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseThreeaccordion1-1b\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Can the school provide any pre-exam teacher help and assistance.</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1b-init\" data-core=\"\" href=\"#collapseFouraccordion1-1b\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Where is the school located?</a>",
@@ -1756,6 +1799,21 @@
               "font-size": "20px"
             }
           }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "International IT College of Sweden\nHälsobrunnsgatan 6, 113 61 Stockholm",
+              "placeId": "ChIJ4y5F7GSdX0YRBXuxnROLtls",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-1m"
         }
       ]
     },
@@ -1906,8 +1964,8 @@
             }
           },
           "title": "Apply Here",
-          "text": "We  accept external students who wish to sit Cambridge International&nbsp; A- Level and IGCSE exams at our course centre. \n<br>Please fill in the application form and the examination officer will reply to you shortly.\n<br><br>Hälsobrunnsgatan 6, 113 61 Stockholm\n<br>\n<br><a href=\"tel:08-704 22 15 \" class=\"text-black\">08-704 22 15\n</a><br><a href=\"tel:08-704 22 15 \" class=\"text-black\"><br></a><br>exams@initcollege.com",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Application Form</a>",
+          "text": "<b>We  accept external students who wish to sit Cambridge International&nbsp; A- Level and IGCSE exams at our course centre. \n<br>Please fill in the application form and the examination officer will reply to you shortly.\n<br><br>Hälsobrunnsgatan 6, 113 61 Stockholm\n</b><br><br><b>08-704 22 15&nbsp;<br></b><br>\n<br><br><a href=\"tel:08-704 22 15 \" class=\"text-black\"><br></a><br>exams@initcollege.com",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://initexams.com/forms.html\" data-toolbar=\"-mbrBtnMove\">Application Form</a>",
           "_tags": [
             "Theme"
           ],
