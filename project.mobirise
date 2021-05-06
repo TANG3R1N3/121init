@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "FAQ.html",
+    "currentPage": "Examination fees.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -198,7 +198,7 @@
           ],
           "_name": "header4",
           "_anchor": "header4-3",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-after-navbar\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/school02-1034x495.png&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(97, 97, 97);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"28\">INIT Exams</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"29\">Cambridge International School – Offering Examinations to Private Candidates</p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-after-navbar\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/school02-1034x495.png&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(97, 97, 97);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"30\">INIT Exams</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"31\">Cambridge International School – Offering Examinations to Private Candidates</p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
@@ -1056,7 +1056,7 @@
             "bgColor": "#fff"
           },
           "title": "Examination Fees",
-          "meta": "Correct at time of publishing",
+          "meta": "Correct at time of publishing<br>The abbreviation CAIE will be used for Cambridge Assessment International Education on this page.<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -1104,7 +1104,7 @@
               "loop": false
             }
           },
-          "title": "International A-Level <br>(per subject)\n<div>2750 SEK</div>",
+          "title": "CAIE A-Level <br>(per subject)\n<div>2750 SEK</div>",
           "text": "This fee includes: Cambridge International charges, INIT administration and supervision costs ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
           "_tags": [
@@ -1165,7 +1165,7 @@
               "loop": false
             }
           },
-          "title": "International AS-A2 Level <br>(per subject)\n<div>2350 SEK</div>",
+          "title": "CAIE AS-A2 Level <br>(per subject)\n<div>2350 SEK</div>",
           "text": "This fee includes: Cambridge International charges, INIT administration and supervision costs",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
           "_tags": [
