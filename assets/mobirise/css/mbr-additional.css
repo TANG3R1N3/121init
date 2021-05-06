@@ -673,6 +673,12 @@ section.form .container {
 #content7-1f .heading-text {
   color: #ffffff;
 }
+#testimonials1-1l .card-block {
+  color: #fffffd;
+}
+#testimonials1-1l .card-block P {
+  text-align: center;
+}
 #content8-a P {
   font-family: 'Oxygen', sans-serif;
   color: #bb2e5e;
@@ -684,9 +690,6 @@ section.form .container {
 }
 #header7-1g H3 {
   font-size: 30px;
-}
-#testimonials1-1l .card-block {
-  color: #fffffd;
 }
 
 

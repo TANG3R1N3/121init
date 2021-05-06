@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -286,6 +286,66 @@
         {
           "_params": {
             "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "autoplay": false,
+            "arrowColor": "#d2cccc",
+            "timeout": "1",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "showBullets": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#d2cccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "slides": [
+              {
+                "active": true,
+                "text": "<p>The abbreviation<b> CAIE</b> will be used for <b>Cambridge Assessment International Education</b> throughout this website&nbsp;</p>",
+                "authorName": "Suffian A.",
+                "authorBio": "",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@/components/_images/slider/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "What our fantastic users say",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1l",
+          "_styles": {
+            ".card-block": {
+              "color": "#fffffd"
+            },
+            ".card-block P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": true,
             "inverse": true,
@@ -440,63 +500,6 @@
             }
           },
           "_anchor": "header7-1g"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "autoplay": false,
-            "arrowColor": "#d2cccc",
-            "timeout": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showBullets": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#d2cccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "slides": [
-              {
-                "active": true,
-                "text": "<p>The abbreviation<b> CAIE</b> will be used for <b>Cambridge Assessment International Education</b> throughout this website&nbsp;</p>",
-                "authorName": "Suffian A.",
-                "authorBio": "",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@/components/_images/slider/face3.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              }
-            ]
-          },
-          "title": "What our fantastic users say",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-1l",
-          "_styles": {
-            ".card-block": {
-              "color": "#fffffd"
-            }
-          }
         }
       ]
     },
