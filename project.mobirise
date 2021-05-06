@@ -420,9 +420,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/initlogo-658x154.png",
-              "link": "",
+              "link": "http://www.initcollege.se",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
