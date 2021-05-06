@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InitCambridge2021-clone",
-    "currentPage": "Examination fees.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1932,7 +1932,7 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": 1,
             "showHeading": true,
             "showTitle": true,
@@ -1953,7 +1953,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": 0.95
           },
-          "title": "Contact Us",
+          "title": "Feel free to contact us",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
           "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
