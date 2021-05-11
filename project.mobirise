@@ -198,7 +198,7 @@
           ],
           "_name": "header4",
           "_anchor": "header4-3",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-after-navbar\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/school02-1034x495.png&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(97, 97, 97);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"30\">INIT Exams</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"31\">Cambridge International School – Offering Examinations to Private Candidates</p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-after-navbar\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/school02-1034x495.png&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(97, 97, 97);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"28\">INIT Exams</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"29\">Cambridge International School – Offering Examinations to Private Candidates</p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
@@ -286,66 +286,6 @@
         {
           "_params": {
             "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "autoplay": false,
-            "arrowColor": "#d2cccc",
-            "timeout": "1",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "showBullets": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#d2cccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "slides": [
-              {
-                "active": true,
-                "text": "<p>The abbreviation<b> CAIE</b> will be used for <b>Cambridge Assessment International Education</b> throughout this website&nbsp;</p>",
-                "authorName": "Suffian A.",
-                "authorBio": "",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@/components/_images/slider/face3.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              }
-            ]
-          },
-          "title": "What our fantastic users say",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-1l",
-          "_styles": {
-            ".card-block": {
-              "color": "#fffffd"
-            },
-            ".card-block P": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": false,
             "showText": true,
             "showButtons": true,
             "inverse": true,
@@ -420,10 +360,9 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/initlogo-658x154.png",
-              "link": "http://www.initcollege.se",
+              "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -501,6 +440,63 @@
             }
           },
           "_anchor": "header7-1g"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "autoplay": false,
+            "arrowColor": "#d2cccc",
+            "timeout": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#d2cccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "slides": [
+              {
+                "active": true,
+                "text": "<p>The abbreviation<b> CAIE</b> will be used for <b>Cambridge Assessment International Education</b> throughout this website&nbsp;</p>",
+                "authorName": "Suffian A.",
+                "authorBio": "",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@/components/_images/slider/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "What our fantastic users say",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1l",
+          "_styles": {
+            ".card-block": {
+              "color": "#fffffd"
+            }
+          }
         }
       ]
     },
@@ -1060,7 +1056,7 @@
             "bgColor": "#fff"
           },
           "title": "Examination Fees",
-          "meta": "Correct at time of publishing<br>The abbreviation CAIE will be used for Cambridge Assessment International Education on this page.<br><br>",
+          "meta": "Correct at time of publishing",
           "_tags": [
             "Theme"
           ],
@@ -1108,7 +1104,7 @@
               "loop": false
             }
           },
-          "title": "CAIE A-Level <br>(per subject)\n<div>2750 SEK</div>",
+          "title": "International A-Level <br>(per subject)\n<div>2750 SEK</div>",
           "text": "This fee includes: Cambridge International charges, INIT administration and supervision costs ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
           "_tags": [
@@ -1169,7 +1165,7 @@
               "loop": false
             }
           },
-          "title": "CAIE AS-A2 Level <br>(per subject)\n<div>2350 SEK</div>",
+          "title": "International AS-A2 Level <br>(per subject)\n<div>2350 SEK</div>",
           "text": "This fee includes: Cambridge International charges, INIT administration and supervision costs",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.initcollege.net/cambridge/applications/form.html\" data-toolbar=\"-mbrBtnMove\">Apply</a>",
           "_tags": [
@@ -1588,7 +1584,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "See Google Map at bottom of Page.",
+          "text": "See Google Map at bottom of Page",
           "_tags": [
             "Theme"
           ],
@@ -1621,13 +1617,13 @@
             "overlayOpacity": 0.9
           },
           "title": "&nbsp;FAQ",
-          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-1t-init\" data-core=\"\" href=\"#collapseOneaccordion1-1t\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What are the exam start times?</a>",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1t-init\" data-core=\"\" href=\"#collapseOneaccordion1-1t\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What are the exam start times?</a>",
           "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1t-init\" data-core=\"\" href=\"#collapseTwoaccordion1-1t\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Location of school</a>",
           "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1t-init\" data-core=\"\" href=\"#collapseThreeaccordion1-1t\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Overnight accommodation</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1t-init\" data-core=\"\" href=\"#collapseFouraccordion1-1t\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Teacher assistance before exams</a>",
           "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-1t-init\" data-core=\"\" href=\"#collapseFiveaccordion1-1t\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Refund of payment for examinations</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-1t-init\" data-core=\"\" href=\"#collapseSixaccordion1-1t\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Is it possible to take full-time Cambridge International Studies (IGCSE, O level, A levels</a>",
-          "text1": "Sweden is in Cambridge Zone 3.\n<div>\n</div><div>Please note the start times of the examinations for the summer series:\n</div><div>The AM (morning) exams will start at 11.00.\n</div><div>The PM (afternoon) exams will start at 15.00.</div><br><div>\n</div><div>\n</div><div>Please note the start times of the examinations for the winter series:\n</div><div>The AM (morning) exams will start at 11.00.\n</div><div>The PM (afternoon) exams will start at 15.00.\n</div><div>UNTIL\n</div><div>25th October, then the start time will be:\n</div><div>The AM (morning) exams will start at 10.00.\n</div><div>The PM (afternoon) exams will start at 14.00.</div>",
+          "text1": "<p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p>",
           "text2": "<p>The school is located in the centre of Stockholm. It is a fifteen minute walk from the central train station and a few minutes walk from Drottnigsgatan, one of Stockholm's main shopping streets. (See Google Map at bottom of page)</p>",
           "text3": "<p>The short answer is no. But we do have good contact wtih the hostel on the 8th floor ot the school building. We recommend that you contact them directly for their very good accomodation rates. But please note: their very best daily rates are for shared accommodation. (link to Crawfoord place). Single rooms are available - but they are more expensive.</p><br><p><a href=\"http://crafoordplace.com/start/en-stockholm\" class=\"text-primary\">http://crafoordplace.com/start/en-stockholm</a>\n</p><p><br></p><p><br></p>",
           "text4": "<p>We have had this request on a number of occasions. We have, therefore, now decided to offer some online teacher assistance. Please refer to the online training link in the navigation bar.&nbsp;</p>",
@@ -1828,7 +1824,7 @@
         }
       ]
     },
-    "page7.html": {
+    "Contact Us.html": {
       "settings": {
         "title": "Contact Us",
         "order": 1
@@ -1936,7 +1932,7 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "showHeading": true,
             "showTitle": true,
@@ -1957,7 +1953,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": 0.95
           },
-          "title": "Feel free to contact us",
+          "title": "Contact Us",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
           "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
