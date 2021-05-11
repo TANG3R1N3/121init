@@ -673,6 +673,15 @@ section.form .container {
 #content7-1f .heading-text {
   color: #ffffff;
 }
+#subscribe1-2d .form-control-label {
+  color: undefined;
+}
+#subscribe1-2d .mbr-section-title {
+  font-size: 36px;
+}
+#testimonials1-1l .card-block {
+  color: #fffffd;
+}
 #content8-a P {
   font-family: 'Oxygen', sans-serif;
   color: #bb2e5e;
@@ -684,9 +693,6 @@ section.form .container {
 }
 #header7-1g H3 {
   font-size: 30px;
-}
-#testimonials1-1l .card-block {
-  color: #fffffd;
 }
 
 

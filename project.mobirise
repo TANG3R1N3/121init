@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.2",
     "siteFonts": [],
-    "uniqCompNum": 83,
+    "uniqCompNum": 86,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -198,7 +198,7 @@
           ],
           "_name": "header4",
           "_anchor": "header4-3",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-after-navbar\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/school02-1034x495.png&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(97, 97, 97);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"28\">INIT Exams</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"29\">Cambridge International School – Offering Examinations to Private Candidates</p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-after-navbar\" data-rv-view=\"4\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/school02-1034x495.png&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(97, 97, 97);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"30\">INIT Exams</h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"31\">Cambridge International School – Offering Examinations to Private Candidates</p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n",
@@ -282,6 +282,106 @@
           ],
           "_name": "content7",
           "_anchor": "content7-1f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#f6f7f8",
+            "overlayOpacity": 0.5
+          },
+          "title": "Subscribe to our newsletter!",
+          "subtitle": "Get notified about new amazing products",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
+          "form": {
+            "action": "initsimon@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "subscribe1",
+          "_anchor": "subscribe1-2d",
+          "_styles": {
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "autoplay": false,
+            "arrowColor": "#d2cccc",
+            "timeout": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#d2cccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "slides": [
+              {
+                "active": true,
+                "text": "<p>The abbreviation<b> CAIE</b> will be used for <b>Cambridge Assessment International Education</b> throughout this website&nbsp;</p>",
+                "authorName": "Suffian A.",
+                "authorBio": "",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@/components/_images/slider/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "What our fantastic users say",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-1l",
+          "_styles": {
+            ".card-block": {
+              "color": "#fffffd"
+            }
+          }
         },
         {
           "_params": {
@@ -440,63 +540,6 @@
             }
           },
           "_anchor": "header7-1g"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "autoplay": false,
-            "arrowColor": "#d2cccc",
-            "timeout": "1",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showBullets": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#d2cccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "slides": [
-              {
-                "active": true,
-                "text": "<p>The abbreviation<b> CAIE</b> will be used for <b>Cambridge Assessment International Education</b> throughout this website&nbsp;</p>",
-                "authorName": "Suffian A.",
-                "authorBio": "",
-                "media": {
-                  "image": {
-                    "src": "@THEME_PATH@/components/_images/slider/face3.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              }
-            ]
-          },
-          "title": "What our fantastic users say",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-1l",
-          "_styles": {
-            ".card-block": {
-              "color": "#fffffd"
-            }
-          }
         }
       ]
     },
